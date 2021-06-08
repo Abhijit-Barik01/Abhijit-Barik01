@@ -7,7 +7,7 @@ Beside's programming, I enjoy listening music 🎧 , playing cricket 🏏.
 **Here's what you need to know about me :**
 - 💻 I'm learning data scientist tools (Data Analysis , Modeling , Deployment) .
 - 👨🏽‍💻 I’m currently working on Computer vision technologies learning Object detection and Segmentation .
-- 🌱 I’m also learing and web devlopment
+- 🌱 I’m also learing  web devlopment
 - 🐍 I love to code in Python .
 - I've posted my very first article on Medium on Stack OverFlow Developer Survey , Have a look [Blog Post](https://medium.com/@swatisinghchanchaluni/developers-vs-non-developers-which-profession-is-better-8a18aeb4d65a)
 - 💬 Ask me about anything, I am happy to help .
