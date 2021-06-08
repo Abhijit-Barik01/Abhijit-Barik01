@@ -34,7 +34,7 @@ __Tools__
 <img src="https://image.flaticon.com/icons/png/512/732/732212.png" width=50 height=50>
 <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" width=50 height=50>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width=50 height=50>
-<imh src="https://img-premium.flaticon.com/png/512/1822/1822891.png?token=exp=1623171172~hmac=d0ff837c7689a4dce9f28307879a53ca" width=50 height=50>
+<img src="https://cdn2.iconfinder.com/data/icons/programming-and-development-flat/64/c_plus-512.png" width=50 height=50>
 <img src="https://img.stackshare.io/service/5601/keras.png" width=50 height=50>
 
 <br>
