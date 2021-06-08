@@ -9,7 +9,7 @@ Beside's programming, I enjoy listening music 🎧 , playing cricket 🏏.
 - 👨🏽‍💻 I’m currently working on Computer vision technologies learning Object detection and Segmentation .
 - 🌱 I’m also learing  web devlopment
 - 🐍 I love to code in Python .
-- I've posted my very first article on Medium on Stack OverFlow Developer Survey , Have a look [Blog Post](https://medium.com/@swatisinghchanchaluni/developers-vs-non-developers-which-profession-is-better-8a18aeb4d65a)
+- Check out my __Data science articles__ at :-[inblog](https://inblog.in/@PraneethKumar)
 - 💬 Ask me about anything, I am happy to help .
 - 📫 How to reach me: abro45172018@gmail.com .
 - 💼 Looking for Data science opportunity .
@@ -23,7 +23,13 @@ Beside's programming, I enjoy listening music 🎧 , playing cricket 🏏.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-:pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/Abhijit-Barik01/Abhijit-Barik01) :pencil:
+### Top Languages
+
+<p align="center">
+<a href = "https://github.com/praneeth300">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=Abhijit-Barik01&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+</a>
+</p>
 
 ### Connect with me:
 <a href="https://twitter.com/_swatichanchal">
