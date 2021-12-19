@@ -1,6 +1,6 @@
 ### Hola 👋, I'm Abhijit  . 
 
-Hi, I'm Abhijit Barik, a Constant Learner and a Data Scientist from India, Currently working as a Data Science Intern 🙍🏽‍♂️ at Ine.ai .
+Hi, I'm Abhijit Barik, a Constant Learner and a python django devloper from India, Currently working as a Data Science Intern 🙍🏽‍♂️ at Ineuron.ai .
 Beside's programming, I enjoy listening music 🎧 , playing cricket 🏏.
 
 
