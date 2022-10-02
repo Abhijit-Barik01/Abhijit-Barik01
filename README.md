@@ -1,6 +1,5 @@
 ### Hola 👋, I'm Abhijit  . 
 
-- 👋 Hi, I’m @08anask
 - 👀 I’m a Data Science, Machine Learning and Data Engineer Enthusiast
 - 🌱 I’m currently learning about Big Data as its various forms.
 - ⚡ Fun fact: Cricket Player...
