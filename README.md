@@ -22,7 +22,7 @@ __Tools__
 <img src="https://iconape.com/wp-content/files/dw/348983/svg/348983.svg" width=50 height=50>
 <img src="https://pythonforfinance.net/wp-content/uploads/2019/07/Jupyter.jpg" width=50 height=50>
 <img src="https://colab.research.google.com/img/colab_favicon.ico" height=50 width=50>
-<img src="https://image.flaticon.com/icons/png/512/732/732212.png" width=50 height=50>
+
 <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" width=50 height=50>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width=50 height=50>
 <img src="https://cdn2.iconfinder.com/data/icons/programming-and-development-flat/64/c_plus-512.png" width=50 height=50>
