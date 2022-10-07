@@ -1,6 +1,6 @@
 ### Hola 👋, I'm Abhijit  . 
 
-- 👀 I’m a Data Science, Machine Learning and Data Engineer Enthusiast
+- 👀 I’m a Data Engineer,Devops Enthusiast
 - 🌱 I’m currently learning about Big Data as its various forms.
 - ⚡ Fun fact: Cricket Player...
 
