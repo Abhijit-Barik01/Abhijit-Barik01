@@ -4,7 +4,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
+  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.gif" />
   <br />
   <br />
 
@@ -45,6 +45,4 @@
 </tr>
 </table>
 
-<div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
-</div>
+
