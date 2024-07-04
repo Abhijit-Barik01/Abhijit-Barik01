@@ -1,8 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Hi, I am Abhijit 👨‍💻
 
-I am a C++ Developer and Devops enthusiast. I am passionate about technologies and love to learn new things.
-
-
+I am a C++ Developer and Devops enthusiast.
 ---
 
 🔧 I'm a software developer with **1 year of experience** in C++ development.
