@@ -2,6 +2,21 @@
 
 I am a C++ Developer and Devops enthusiast. I am passionate about technologies and love to learn new things.
 
+
+---
+
+🔧 I'm a software developer with **1 year of experience** in C++ development.
+
+🌟 My core skills include:
+- **C++**: Writing efficient and robust code.
+- **CMake**: Simplifying the build process.
+- **Java Spring Boot**: Building powerful backend applications.
+- **DevOps**: Streamlining deployments and improving CI/CD processes.
+
+🚀 Always excited to learn and take on new challenges. Let's connect and build something amazing together!
+
+---
+
 ### 🔭 Have a look at my [website](https://abhijit-barik01.github.io/portfolio/).
 
 ## 📫 Get in touch
